@@ -136,6 +136,7 @@ h2:hover{
 
     .container{
         width:100%;
+        max-width: 40rem;
         margin-top: 7rem;
     }
   }
