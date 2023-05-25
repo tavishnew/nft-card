@@ -132,7 +132,7 @@ h2:hover{
     }
   }
 
-  @media  (max-width: 400px){
+  @media only screen and (max-width: 400px){
 
     .container{
         width: 100%;
