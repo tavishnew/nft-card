@@ -135,8 +135,7 @@ h2:hover{
   @media only screen and (max-width: 400px){
 
     .container{
-        width:100%;
-        max-width: 40rem;
+        width: 40rem;
         margin-top: 7rem;
     }
   }
